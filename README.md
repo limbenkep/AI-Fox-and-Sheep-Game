@@ -1,5 +1,6 @@
 # AI-Fox-and-Sheep-Game  
-This project is in zip form because it include jar libraries.
+This project is in zip form because it include jar libraries.  
+
 FoxGame rules
 The agents will send moves to each other by communicating through an intermediary server program called the monitor. The monitor allows us to watch the game in progress.
 
